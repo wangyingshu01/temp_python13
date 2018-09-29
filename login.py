@@ -4,3 +4,6 @@ a = 1
 
 def login():
 	return 'login'
+
+def info():
+	return 'info'

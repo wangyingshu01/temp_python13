@@ -4,3 +4,5 @@ a = 1
 
 def login():
 	return 'login'
+
+b = 2
